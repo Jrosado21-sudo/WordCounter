@@ -1,10 +1,6 @@
 /Made by: Jose Rosado   
 //Purpose: Word counter and Analyzer
-//Date:9/22/21
-
-/Made by: Jose Rosado  
-//Purpose: Word counter and Analyzer
-//Date:9/22/21
+//Date:11/19/21
 
 import java.io.FileInputStream;
 import java.util.ArrayList; import java.util.Scanner; import java.io.IOException;
